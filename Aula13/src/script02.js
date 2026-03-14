@@ -1,4 +1,4 @@
-// Definindo uma array global:
+// Definindo uma array global
 const times = ["São Paulo", "Corinthians", "Flamengo", "Fluminense"];
 
 // Utilizando indexOf()
